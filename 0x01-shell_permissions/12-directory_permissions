@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -R 751 my_dir
+mkdir -RC 751 my_dir
