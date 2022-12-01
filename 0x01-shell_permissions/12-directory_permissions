@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 725 my_dir
+mkdir -m725 my_dir
